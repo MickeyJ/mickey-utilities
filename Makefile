@@ -1,4 +1,4 @@
-.PHONY: create-commands
+.PHONY: commands
 
-create-commands:
+commands:
 	@sh ./bash-scripts/create-commands.sh
