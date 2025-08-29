@@ -1,13 +1,13 @@
 #!/bin/bash
 
 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-# create-user-bin.sh
+# create-commands.sh
 # What it does:
 # - Create user '~/bin' directory,
 # - adds '~/bin' to PATH,
 # - creates symlinks for all commands in ./commands directory
 #
-# Usage: sh ./create-user-bin.sh
+# Usage: sh ./create-commands.sh
 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 export MSYS=winsymlinks:nativestrict
