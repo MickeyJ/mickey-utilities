@@ -4,6 +4,6 @@
 
 Turn scripts in ./bash-scripts/commands into commands with symlinks
 ```bash
-make create-commands
+make commands
 ```
 Add more with filename as the desired command
